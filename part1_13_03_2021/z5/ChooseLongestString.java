@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 public class ChooseLongestString {
 
+    // I slightly modified the string array that was given
     private static String[] words1 = { "Politechnika1", "Karol",
 				       "Adam", "Rogowski",
 				       "Politechnika2", "Super", "Weekend"};

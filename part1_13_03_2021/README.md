@@ -28,7 +28,7 @@ W ramach treningu rozwiaze je w Javie.
 
 # Moj obecny background
 
-Kiedys przeczytan ksiazka jakies 250-300 stron o Java (aby zobaczyc co i jak).
+Kiedys przeczytalem jakas ksiazke, ok. 250-300 stron o Java (aby zobaczyc co i jak).
 
 Znajomosc paru innych jezykow programowania.
 
