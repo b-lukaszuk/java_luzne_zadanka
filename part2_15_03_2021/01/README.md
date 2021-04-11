@@ -12,7 +12,7 @@ Tresci zadan skopiowane z tych ktore dostalismy od Karola na podyplomowki JS Dev
 
 Zadania z dnia 24-10-2020
 
-W ramach treningu rozwiaze je w Haskellu.
+W ramach treningu rozwiaze je w Java.
 
 
 # Tasks
